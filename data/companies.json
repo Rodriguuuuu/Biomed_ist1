@@ -1,0 +1,7250 @@
+[
+  {
+    "id": 1,
+    "name": "Siemens Healthineers",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "siemens-healthineers"
+  },
+  {
+    "id": 2,
+    "name": "GE HealthCare",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ge-healthcare"
+  },
+  {
+    "id": 3,
+    "name": "Philips",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "philips"
+  },
+  {
+    "id": 4,
+    "name": "Medtronic",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "medtronic"
+  },
+  {
+    "id": 5,
+    "name": "Boston Scientific",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "boston-scientific"
+  },
+  {
+    "id": 6,
+    "name": "Stryker",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "stryker"
+  },
+  {
+    "id": 7,
+    "name": "Johnson & Johnson MedTech",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "johnson-&-johnson-medtech"
+  },
+  {
+    "id": 8,
+    "name": "Abbott",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "abbott"
+  },
+  {
+    "id": 9,
+    "name": "Roche Diagnostics",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "roche-diagnostics"
+  },
+  {
+    "id": 10,
+    "name": "Becton Dickinson",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "becton-dickinson"
+  },
+  {
+    "id": 11,
+    "name": "Baxter",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "baxter"
+  },
+  {
+    "id": 12,
+    "name": "Fresenius Medical Care",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "fresenius-medical-care"
+  },
+  {
+    "id": 13,
+    "name": "Fresenius Kabi",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "fresenius-kabi"
+  },
+  {
+    "id": 14,
+    "name": "Zimmer Biomet",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "zimmer-biomet"
+  },
+  {
+    "id": 15,
+    "name": "Edwards Lifesciences",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "edwards-lifesciences"
+  },
+  {
+    "id": 16,
+    "name": "Hologic",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "hologic"
+  },
+  {
+    "id": 17,
+    "name": "ResMed",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "resmed"
+  },
+  {
+    "id": 18,
+    "name": "Masimo",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "masimo"
+  },
+  {
+    "id": 19,
+    "name": "Canon Medical Systems",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "canon-medical-systems"
+  },
+  {
+    "id": 20,
+    "name": "Varian",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "varian"
+  },
+  {
+    "id": 21,
+    "name": "Elekta",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "elekta"
+  },
+  {
+    "id": 22,
+    "name": "Illumina",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "illumina"
+  },
+  {
+    "id": 23,
+    "name": "Thermo Fisher Scientific",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "thermo-fisher-scientific"
+  },
+  {
+    "id": 24,
+    "name": "Agilent Technologies",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "agilent-technologies"
+  },
+  {
+    "id": 25,
+    "name": "Revvity (PerkinElmer)",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "revvity-(perkinelmer)"
+  },
+  {
+    "id": 26,
+    "name": "Qiagen",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "qiagen"
+  },
+  {
+    "id": 27,
+    "name": "Bio-Rad Laboratories",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bio-rad-laboratories"
+  },
+  {
+    "id": 28,
+    "name": "Waters Corporation",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "waters-corporation"
+  },
+  {
+    "id": 29,
+    "name": "Merck KGaA (MilliporeSigma)",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "merck-kgaa-(milliporesigma)"
+  },
+  {
+    "id": 30,
+    "name": "Danaher",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "danaher"
+  },
+  {
+    "id": 31,
+    "name": "Beckman Coulter",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "beckman-coulter"
+  },
+  {
+    "id": 32,
+    "name": "Leica Biosystems",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "leica-biosystems"
+  },
+  {
+    "id": 33,
+    "name": "Cepheid",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cepheid"
+  },
+  {
+    "id": 34,
+    "name": "Solventum (3M Health Care)",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "solventum-(3m-health-care)"
+  },
+  {
+    "id": 35,
+    "name": "Alcon",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "alcon"
+  },
+  {
+    "id": 36,
+    "name": "B. Braun",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "b.-braun"
+  },
+  {
+    "id": 37,
+    "name": "Smith & Nephew",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "smith-&-nephew"
+  },
+  {
+    "id": 38,
+    "name": "Terumo",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "terumo"
+  },
+  {
+    "id": 39,
+    "name": "Nipro",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "nipro"
+  },
+  {
+    "id": 40,
+    "name": "Nihon Kohden",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "nihon-kohden"
+  },
+  {
+    "id": 41,
+    "name": "Karl Storz",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "karl-storz"
+  },
+  {
+    "id": 42,
+    "name": "Dr\u00e4ger",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "dr\u00e4ger"
+  },
+  {
+    "id": 43,
+    "name": "Getinge",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "getinge"
+  },
+  {
+    "id": 44,
+    "name": "Straumann",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "straumann"
+  },
+  {
+    "id": 45,
+    "name": "Coloplast",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "coloplast"
+  },
+  {
+    "id": 46,
+    "name": "Cochlear",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cochlear"
+  },
+  {
+    "id": 47,
+    "name": "Sonova",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "sonova"
+  },
+  {
+    "id": 48,
+    "name": "bioM\u00e9rieux",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "biom\u00e9rieux"
+  },
+  {
+    "id": 49,
+    "name": "Mindray",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mindray"
+  },
+  {
+    "id": 50,
+    "name": "Shimadzu Medical",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "shimadzu-medical"
+  },
+  {
+    "id": 51,
+    "name": "FUJIFILM Healthcare",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "fujifilm-healthcare"
+  },
+  {
+    "id": 52,
+    "name": "Olympus Medical",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "olympus-medical"
+  },
+  {
+    "id": 53,
+    "name": "Carestream Health",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "carestream-health"
+  },
+  {
+    "id": 54,
+    "name": "Cardinal Health",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cardinal-health"
+  },
+  {
+    "id": 55,
+    "name": "Teleflex",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "teleflex"
+  },
+  {
+    "id": 56,
+    "name": "ICU Medical",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "icu-medical"
+  },
+  {
+    "id": 57,
+    "name": "Invacare",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "invacare"
+  },
+  {
+    "id": 58,
+    "name": "Hamilton Medical",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "hamilton-medical"
+  },
+  {
+    "id": 59,
+    "name": "Zoll Medical",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "zoll-medical"
+  },
+  {
+    "id": 60,
+    "name": "Dexcom",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "dexcom"
+  },
+  {
+    "id": 61,
+    "name": "Insulet",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "insulet"
+  },
+  {
+    "id": 62,
+    "name": "Tandem Diabetes Care",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "tandem-diabetes-care"
+  },
+  {
+    "id": 63,
+    "name": "Align Technology",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "align-technology"
+  },
+  {
+    "id": 64,
+    "name": "Abiomed",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "abiomed"
+  },
+  {
+    "id": 65,
+    "name": "Orthofix",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "orthofix"
+  },
+  {
+    "id": 66,
+    "name": "Integra LifeSciences",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "integra-lifesciences"
+  },
+  {
+    "id": 67,
+    "name": "CONMED",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "conmed"
+  },
+  {
+    "id": 68,
+    "name": "Haemonetics",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "haemonetics"
+  },
+  {
+    "id": 69,
+    "name": "LivaNova",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "livanova"
+  },
+  {
+    "id": 70,
+    "name": "Novocure",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "novocure"
+  },
+  {
+    "id": 71,
+    "name": "Penumbra",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "penumbra"
+  },
+  {
+    "id": 72,
+    "name": "AngioDynamics",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "angiodynamics"
+  },
+  {
+    "id": 73,
+    "name": "Merit Medical",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "merit-medical"
+  },
+  {
+    "id": 74,
+    "name": "Sartorius",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "sartorius"
+  },
+  {
+    "id": 75,
+    "name": "Eppendorf",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "eppendorf"
+  },
+  {
+    "id": 76,
+    "name": "Bruker",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bruker"
+  },
+  {
+    "id": 77,
+    "name": "Tecan",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "tecan"
+  },
+  {
+    "id": 78,
+    "name": "Hamilton Company",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "hamilton-company"
+  },
+  {
+    "id": 79,
+    "name": "HORIBA Medical",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "horiba-medical"
+  },
+  {
+    "id": 80,
+    "name": "Sysmex",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "sysmex"
+  },
+  {
+    "id": 81,
+    "name": "Mettler Toledo",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mettler-toledo"
+  },
+  {
+    "id": 82,
+    "name": "Cerner (Oracle Health)",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cerner-(oracle-health)"
+  },
+  {
+    "id": 83,
+    "name": "Epic Systems",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "epic-systems"
+  },
+  {
+    "id": 84,
+    "name": "Dedalus",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "dedalus"
+  },
+  {
+    "id": 85,
+    "name": "CompuGroup Medical (CGM)",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "compugroup-medical-(cgm)"
+  },
+  {
+    "id": 86,
+    "name": "Glintt",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "glintt"
+  },
+  {
+    "id": 87,
+    "name": "iLoF",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ilof"
+  },
+  {
+    "id": 88,
+    "name": "PeekMed",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "peekmed"
+  },
+  {
+    "id": 89,
+    "name": "Sword Health",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "sword-health"
+  },
+  {
+    "id": 90,
+    "name": "HeartGenetics",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "heartgenetics"
+  },
+  {
+    "id": 91,
+    "name": "Kheiron Medical",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "kheiron-medical"
+  },
+  {
+    "id": 92,
+    "name": "Infermedica",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "infermedica"
+  },
+  {
+    "id": 93,
+    "name": "Ada Health",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ada-health"
+  },
+  {
+    "id": 94,
+    "name": "Doctolib",
+    "category": "Biomed",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "doctolib"
+  },
+  {
+    "id": 95,
+    "name": "Google",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "google"
+  },
+  {
+    "id": 96,
+    "name": "Microsoft",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "microsoft"
+  },
+  {
+    "id": 97,
+    "name": "Amazon",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "amazon"
+  },
+  {
+    "id": 98,
+    "name": "AWS",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "aws"
+  },
+  {
+    "id": 99,
+    "name": "Apple",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "apple"
+  },
+  {
+    "id": 100,
+    "name": "Meta",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "meta"
+  },
+  {
+    "id": 101,
+    "name": "IBM",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ibm"
+  },
+  {
+    "id": 102,
+    "name": "Oracle",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "oracle"
+  },
+  {
+    "id": 103,
+    "name": "SAP",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "sap"
+  },
+  {
+    "id": 104,
+    "name": "Salesforce",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "salesforce"
+  },
+  {
+    "id": 105,
+    "name": "Adobe",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "adobe"
+  },
+  {
+    "id": 106,
+    "name": "Cisco",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cisco"
+  },
+  {
+    "id": 107,
+    "name": "Intel",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "intel"
+  },
+  {
+    "id": 108,
+    "name": "AMD",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "amd"
+  },
+  {
+    "id": 109,
+    "name": "NVIDIA",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "nvidia"
+  },
+  {
+    "id": 110,
+    "name": "Qualcomm",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "qualcomm"
+  },
+  {
+    "id": 111,
+    "name": "Arm",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "arm"
+  },
+  {
+    "id": 112,
+    "name": "Broadcom",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "broadcom"
+  },
+  {
+    "id": 113,
+    "name": "Marvell",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "marvell"
+  },
+  {
+    "id": 114,
+    "name": "Micron",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "micron"
+  },
+  {
+    "id": 115,
+    "name": "Western Digital",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "western-digital"
+  },
+  {
+    "id": 116,
+    "name": "Seagate",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "seagate"
+  },
+  {
+    "id": 117,
+    "name": "TSMC",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "tsmc"
+  },
+  {
+    "id": 118,
+    "name": "ASML",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "asml"
+  },
+  {
+    "id": 119,
+    "name": "NXP",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "nxp"
+  },
+  {
+    "id": 120,
+    "name": "STMicroelectronics",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "stmicroelectronics"
+  },
+  {
+    "id": 121,
+    "name": "Infineon",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "infineon"
+  },
+  {
+    "id": 122,
+    "name": "Texas Instruments",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "texas-instruments"
+  },
+  {
+    "id": 123,
+    "name": "Analog Devices",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "analog-devices"
+  },
+  {
+    "id": 124,
+    "name": "Renesas",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "renesas"
+  },
+  {
+    "id": 125,
+    "name": "MediaTek",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mediatek"
+  },
+  {
+    "id": 126,
+    "name": "Ericsson",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ericsson"
+  },
+  {
+    "id": 127,
+    "name": "Nokia",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "nokia"
+  },
+  {
+    "id": 128,
+    "name": "HPE",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "hpe"
+  },
+  {
+    "id": 129,
+    "name": "Dell Technologies",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "dell-technologies"
+  },
+  {
+    "id": 130,
+    "name": "Lenovo",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "lenovo"
+  },
+  {
+    "id": 131,
+    "name": "Logitech",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "logitech"
+  },
+  {
+    "id": 132,
+    "name": "Siemens",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "siemens"
+  },
+  {
+    "id": 133,
+    "name": "Schneider Electric",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "schneider-electric"
+  },
+  {
+    "id": 134,
+    "name": "Bosch",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bosch"
+  },
+  {
+    "id": 135,
+    "name": "ABB",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "abb"
+  },
+  {
+    "id": 136,
+    "name": "Rockwell Automation",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "rockwell-automation"
+  },
+  {
+    "id": 137,
+    "name": "Honeywell",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "honeywell"
+  },
+  {
+    "id": 138,
+    "name": "GE Vernova",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ge-vernova"
+  },
+  {
+    "id": 139,
+    "name": "Siemens Energy",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "siemens-energy"
+  },
+  {
+    "id": 140,
+    "name": "Vestas",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "vestas"
+  },
+  {
+    "id": 141,
+    "name": "\u00d8rsted",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "\u00f8rsted"
+  },
+  {
+    "id": 142,
+    "name": "EDP",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "edp"
+  },
+  {
+    "id": 143,
+    "name": "Galp",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "galp"
+  },
+  {
+    "id": 144,
+    "name": "Tesla",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "tesla"
+  },
+  {
+    "id": 145,
+    "name": "BMW Group",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bmw-group"
+  },
+  {
+    "id": 146,
+    "name": "Mercedes-Benz Group",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mercedes-benz-group"
+  },
+  {
+    "id": 147,
+    "name": "Volkswagen Group",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "volkswagen-group"
+  },
+  {
+    "id": 148,
+    "name": "Volvo Cars",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "volvo-cars"
+  },
+  {
+    "id": 149,
+    "name": "Continental",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "continental"
+  },
+  {
+    "id": 150,
+    "name": "Valeo",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "valeo"
+  },
+  {
+    "id": 151,
+    "name": "Magna",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "magna"
+  },
+  {
+    "id": 152,
+    "name": "ZF",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "zf"
+  },
+  {
+    "id": 153,
+    "name": "Airbus",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "airbus"
+  },
+  {
+    "id": 154,
+    "name": "Boeing",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "boeing"
+  },
+  {
+    "id": 155,
+    "name": "Thales",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "thales"
+  },
+  {
+    "id": 156,
+    "name": "Safran",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "safran"
+  },
+  {
+    "id": 157,
+    "name": "Rolls-Royce",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "rolls-royce"
+  },
+  {
+    "id": 158,
+    "name": "RTX",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "rtx"
+  },
+  {
+    "id": 159,
+    "name": "Lockheed Martin",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "lockheed-martin"
+  },
+  {
+    "id": 160,
+    "name": "Northrop Grumman",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "northrop-grumman"
+  },
+  {
+    "id": 161,
+    "name": "BAE Systems",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bae-systems"
+  },
+  {
+    "id": 162,
+    "name": "SpaceX",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "spacex"
+  },
+  {
+    "id": 163,
+    "name": "Blue Origin",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "blue-origin"
+  },
+  {
+    "id": 164,
+    "name": "Rocket Lab",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "rocket-lab"
+  },
+  {
+    "id": 165,
+    "name": "Cloudflare",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cloudflare"
+  },
+  {
+    "id": 166,
+    "name": "Akamai",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "akamai"
+  },
+  {
+    "id": 167,
+    "name": "Fastly",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "fastly"
+  },
+  {
+    "id": 168,
+    "name": "Datadog",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "datadog"
+  },
+  {
+    "id": 169,
+    "name": "Snowflake",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "snowflake"
+  },
+  {
+    "id": 170,
+    "name": "MongoDB",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mongodb"
+  },
+  {
+    "id": 171,
+    "name": "Elastic",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "elastic"
+  },
+  {
+    "id": 172,
+    "name": "Confluent",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "confluent"
+  },
+  {
+    "id": 173,
+    "name": "HashiCorp",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "hashicorp"
+  },
+  {
+    "id": 174,
+    "name": "Nutanix",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "nutanix"
+  },
+  {
+    "id": 175,
+    "name": "ServiceNow",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "servicenow"
+  },
+  {
+    "id": 176,
+    "name": "Workday",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "workday"
+  },
+  {
+    "id": 177,
+    "name": "Atlassian",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "atlassian"
+  },
+  {
+    "id": 178,
+    "name": "GitHub",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "github"
+  },
+  {
+    "id": 179,
+    "name": "GitLab",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "gitlab"
+  },
+  {
+    "id": 180,
+    "name": "Twilio",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "twilio"
+  },
+  {
+    "id": 181,
+    "name": "Stripe",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "stripe"
+  },
+  {
+    "id": 182,
+    "name": "PayPal",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "paypal"
+  },
+  {
+    "id": 183,
+    "name": "Block (Square)",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "block-(square)"
+  },
+  {
+    "id": 184,
+    "name": "Visa",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "visa"
+  },
+  {
+    "id": 185,
+    "name": "Mastercard",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mastercard"
+  },
+  {
+    "id": 186,
+    "name": "Wise",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "wise"
+  },
+  {
+    "id": 187,
+    "name": "Revolut",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "revolut"
+  },
+  {
+    "id": 188,
+    "name": "Adyen",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "adyen"
+  },
+  {
+    "id": 189,
+    "name": "Shopify",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "shopify"
+  },
+  {
+    "id": 190,
+    "name": "Alibaba",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "alibaba"
+  },
+  {
+    "id": 191,
+    "name": "Tencent",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "tencent"
+  },
+  {
+    "id": 192,
+    "name": "ByteDance",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bytedance"
+  },
+  {
+    "id": 193,
+    "name": "TikTok",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "tiktok"
+  },
+  {
+    "id": 194,
+    "name": "Spotify",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "spotify"
+  },
+  {
+    "id": 195,
+    "name": "Netflix",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "netflix"
+  },
+  {
+    "id": 196,
+    "name": "Uber",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "uber"
+  },
+  {
+    "id": 197,
+    "name": "Airbnb",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "airbnb"
+  },
+  {
+    "id": 198,
+    "name": "Booking Holdings",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "booking-holdings"
+  },
+  {
+    "id": 199,
+    "name": "Expedia Group",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "expedia-group"
+  },
+  {
+    "id": 200,
+    "name": "Red Hat",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "red-hat"
+  },
+  {
+    "id": 201,
+    "name": "Canonical",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "canonical"
+  },
+  {
+    "id": 202,
+    "name": "SUSE",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "suse"
+  },
+  {
+    "id": 203,
+    "name": "Autodesk",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "autodesk"
+  },
+  {
+    "id": 204,
+    "name": "PTC",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ptc"
+  },
+  {
+    "id": 205,
+    "name": "Ansys",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ansys"
+  },
+  {
+    "id": 206,
+    "name": "MathWorks",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mathworks"
+  },
+  {
+    "id": 207,
+    "name": "ESRI",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "esri"
+  },
+  {
+    "id": 208,
+    "name": "Tableau",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "tableau"
+  },
+  {
+    "id": 209,
+    "name": "Qlik",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "qlik"
+  },
+  {
+    "id": 210,
+    "name": "SAS",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "sas"
+  },
+  {
+    "id": 211,
+    "name": "Alteryx",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "alteryx"
+  },
+  {
+    "id": 212,
+    "name": "Splunk",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "splunk"
+  },
+  {
+    "id": 213,
+    "name": "Teradata",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "teradata"
+  },
+  {
+    "id": 214,
+    "name": "Cloudera",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cloudera"
+  },
+  {
+    "id": 215,
+    "name": "Farfetch",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "farfetch"
+  },
+  {
+    "id": 216,
+    "name": "OutSystems",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "outsystems"
+  },
+  {
+    "id": 217,
+    "name": "Talkdesk",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "talkdesk"
+  },
+  {
+    "id": 218,
+    "name": "Feedzai",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "feedzai"
+  },
+  {
+    "id": 219,
+    "name": "Critical TechWorks",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "critical-techworks"
+  },
+  {
+    "id": 220,
+    "name": "Defined.ai",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "defined.ai"
+  },
+  {
+    "id": 221,
+    "name": "Unbabel",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "unbabel"
+  },
+  {
+    "id": 222,
+    "name": "Priberam",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "priberam"
+  },
+  {
+    "id": 223,
+    "name": "Miniclip",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "miniclip"
+  },
+  {
+    "id": 224,
+    "name": "Remote",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "remote"
+  },
+  {
+    "id": 225,
+    "name": "Mambu",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mambu"
+  },
+  {
+    "id": 226,
+    "name": "Checkout.com",
+    "category": "Tech",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "checkout.com"
+  },
+  {
+    "id": 227,
+    "name": "McKinsey & Company",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mckinsey-&-company"
+  },
+  {
+    "id": 228,
+    "name": "Boston Consulting Group (BCG)",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "boston-consulting-group-(bcg)"
+  },
+  {
+    "id": 229,
+    "name": "Bain & Company",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bain-&-company"
+  },
+  {
+    "id": 230,
+    "name": "Accenture",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "accenture"
+  },
+  {
+    "id": 231,
+    "name": "IBM Consulting",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ibm-consulting"
+  },
+  {
+    "id": 232,
+    "name": "Deloitte",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "deloitte"
+  },
+  {
+    "id": 233,
+    "name": "PwC",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "pwc"
+  },
+  {
+    "id": 234,
+    "name": "EY",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ey"
+  },
+  {
+    "id": 235,
+    "name": "KPMG",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "kpmg"
+  },
+  {
+    "id": 236,
+    "name": "EY-Parthenon",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ey-parthenon"
+  },
+  {
+    "id": 237,
+    "name": "Strategy& (PwC)",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "strategy&-(pwc)"
+  },
+  {
+    "id": 238,
+    "name": "Oliver Wyman",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "oliver-wyman"
+  },
+  {
+    "id": 239,
+    "name": "Roland Berger",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "roland-berger"
+  },
+  {
+    "id": 240,
+    "name": "Kearney",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "kearney"
+  },
+  {
+    "id": 241,
+    "name": "L.E.K. Consulting",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "l.e.k.-consulting"
+  },
+  {
+    "id": 242,
+    "name": "Arthur D. Little",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "arthur-d.-little"
+  },
+  {
+    "id": 243,
+    "name": "Alvarez & Marsal",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "alvarez-&-marsal"
+  },
+  {
+    "id": 244,
+    "name": "AlixPartners",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "alixpartners"
+  },
+  {
+    "id": 245,
+    "name": "FTI Consulting",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "fti-consulting"
+  },
+  {
+    "id": 246,
+    "name": "Guidehouse",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "guidehouse"
+  },
+  {
+    "id": 247,
+    "name": "Booz Allen Hamilton",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "booz-allen-hamilton"
+  },
+  {
+    "id": 248,
+    "name": "PA Consulting",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "pa-consulting"
+  },
+  {
+    "id": 249,
+    "name": "BearingPoint",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bearingpoint"
+  },
+  {
+    "id": 250,
+    "name": "Capgemini Invent",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "capgemini-invent"
+  },
+  {
+    "id": 251,
+    "name": "BIP",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bip"
+  },
+  {
+    "id": 252,
+    "name": "Simon-Kucher & Partners",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "simon-kucher-&-partners"
+  },
+  {
+    "id": 253,
+    "name": "ZS Associates",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "zs-associates"
+  },
+  {
+    "id": 254,
+    "name": "Putnam (Inizio)",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "putnam-(inizio)"
+  },
+  {
+    "id": 255,
+    "name": "IQVIA Consulting",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "iqvia-consulting"
+  },
+  {
+    "id": 256,
+    "name": "Huron Consulting",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "huron-consulting"
+  },
+  {
+    "id": 257,
+    "name": "Syneos Health Consulting",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "syneos-health-consulting"
+  },
+  {
+    "id": 258,
+    "name": "Charles River Associates",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "charles-river-associates"
+  },
+  {
+    "id": 259,
+    "name": "NERA",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "nera"
+  },
+  {
+    "id": 260,
+    "name": "Cornerstone Research",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cornerstone-research"
+  },
+  {
+    "id": 261,
+    "name": "OC&C Strategy",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "oc&c-strategy"
+  },
+  {
+    "id": 262,
+    "name": "Capco",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "capco"
+  },
+  {
+    "id": 263,
+    "name": "CGI",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cgi"
+  },
+  {
+    "id": 264,
+    "name": "Sopra Steria",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "sopra-steria"
+  },
+  {
+    "id": 265,
+    "name": "Devoteam",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "devoteam"
+  },
+  {
+    "id": 266,
+    "name": "Atos / Eviden",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "atos-/-eviden"
+  },
+  {
+    "id": 267,
+    "name": "NTT DATA",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ntt-data"
+  },
+  {
+    "id": 268,
+    "name": "DXC Technology",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "dxc-technology"
+  },
+  {
+    "id": 269,
+    "name": "Fujitsu",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "fujitsu"
+  },
+  {
+    "id": 270,
+    "name": "Hitachi Vantara",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "hitachi-vantara"
+  },
+  {
+    "id": 271,
+    "name": "TCS",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "tcs"
+  },
+  {
+    "id": 272,
+    "name": "Infosys",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "infosys"
+  },
+  {
+    "id": 273,
+    "name": "Wipro",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "wipro"
+  },
+  {
+    "id": 274,
+    "name": "Cognizant",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "cognizant"
+  },
+  {
+    "id": 275,
+    "name": "HCLTech",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "hcltech"
+  },
+  {
+    "id": 276,
+    "name": "Tech Mahindra",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "tech-mahindra"
+  },
+  {
+    "id": 277,
+    "name": "EPAM Systems",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "epam-systems"
+  },
+  {
+    "id": 278,
+    "name": "Globant",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "globant"
+  },
+  {
+    "id": 279,
+    "name": "Endava",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "endava"
+  },
+  {
+    "id": 280,
+    "name": "Luxoft",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "luxoft"
+  },
+  {
+    "id": 281,
+    "name": "Alten",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "alten"
+  },
+  {
+    "id": 282,
+    "name": "Capgemini Engineering (Altran)",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "capgemini-engineering-(altran)"
+  },
+  {
+    "id": 283,
+    "name": "Akkodis",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "akkodis"
+  },
+  {
+    "id": 284,
+    "name": "Expleo",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "expleo"
+  },
+  {
+    "id": 285,
+    "name": "QuEST Global",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "quest-global"
+  },
+  {
+    "id": 286,
+    "name": "Arup",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "arup"
+  },
+  {
+    "id": 287,
+    "name": "Mott MacDonald",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "mott-macdonald"
+  },
+  {
+    "id": 288,
+    "name": "WSP",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "wsp"
+  },
+  {
+    "id": 289,
+    "name": "AECOM",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "aecom"
+  },
+  {
+    "id": 290,
+    "name": "Jacobs",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "jacobs"
+  },
+  {
+    "id": 291,
+    "name": "Ramboll",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ramboll"
+  },
+  {
+    "id": 292,
+    "name": "Arcadis",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "arcadis"
+  },
+  {
+    "id": 293,
+    "name": "AtkinsR\u00e9alis",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "atkinsr\u00e9alis"
+  },
+  {
+    "id": 294,
+    "name": "Wood",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "wood"
+  },
+  {
+    "id": 295,
+    "name": "GHD",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "ghd"
+  },
+  {
+    "id": 296,
+    "name": "Sweco",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "sweco"
+  },
+  {
+    "id": 297,
+    "name": "Novabase",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "novabase"
+  },
+  {
+    "id": 298,
+    "name": "Noesis",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "noesis"
+  },
+  {
+    "id": 299,
+    "name": "Xpand IT",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "xpand-it"
+  },
+  {
+    "id": 300,
+    "name": "BOLD by Devoteam",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "bold-by-devoteam"
+  },
+  {
+    "id": 301,
+    "name": "Inetum",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "inetum"
+  },
+  {
+    "id": 302,
+    "name": "Everis (NTT DATA) Portugal",
+    "category": "Consulting",
+    "regions": [
+      "Portugal",
+      "EU",
+      "Global"
+    ],
+    "website": "",
+    "short_description": "",
+    "domains": [],
+    "core_values": [
+      "innovation",
+      "quality",
+      "ethics",
+      "sustainability"
+    ],
+    "skill_profile": {},
+    "typical_roles": [],
+    "hiring_preferences": [],
+    "verify": true,
+    "_slug": "everis-(ntt-data)-portugal"
+  }
+]

@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ring: 222.2 84% 4.9%;
+}
+
+* { scroll-behavior: smooth; }
+
+/* Focus visible */
+:focus-visible { outline: 2px solid; outline-offset: 2px; }
+
+/* Simple academic feel */
+body { @apply bg-white text-neutral-900; }
+a { @apply underline underline-offset-4; }
+.container { @apply max-w-6xl mx-auto px-4; }
+.card { @apply rounded-2xl shadow-sm border border-neutral-200 bg-white; }
+.card-header { @apply px-4 py-3 border-b border-neutral-100; }
+.card-content { @apply p-4; }
+.btn { @apply inline-flex items-center justify-center rounded-2xl px-4 py-2 border border-neutral-300 hover:bg-neutral-50 transition; }
+.input { @apply rounded-xl border border-neutral-300 px-3 py-2 w-full; }
+.table { @apply w-full text-sm; }
+.table th { @apply text-left font-semibold border-b border-neutral-200 py-2; }
+.table td { @apply border-b border-neutral-100 py-2; }
+.badge { @apply inline-flex items-center rounded-full border px-2 py-0.5 text-xs; }
+kbd { @apply px-2 py-0.5 rounded border; }
+.skip-link { position:absolute; left:-10000px; top:auto; width:1px; height:1px; overflow:hidden; }
+.skip-link:focus { position:static; width:auto; height:auto; margin:8px; }
