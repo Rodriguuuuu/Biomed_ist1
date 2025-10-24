@@ -1,7 +1,7 @@
 'use client';
 import React from 'react';
 
-type Props = { labels: string[]; values: number[]; title?: string };
+type Props = { labels: readonly string[]; values: readonly number[]; title?: string };
 
 export default function Radar({ labels, values, title }: Props) {
   const N = values.length;
