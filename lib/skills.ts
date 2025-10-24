@@ -38,7 +38,7 @@ export function gradeStrength(grade: number) {
   // normaliza 0..1 a partir de 10..20
   const s = Math.max(0, Math.min(1, (grade - 10) / 10));
   // curva de ênfase (quanto maior K, mais “puxa” o topo)
-  const K = 1.8;
+  const K = 1.6;
   return Math.pow(s, K);
 }
 
