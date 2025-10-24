@@ -10,10 +10,40 @@ type Company = typeof companies[number];
 
 function skillVecFromCompany(c:Company){
   // Lightweight defaults by category
-  const map: Record<string, Partial<Record<typeof SKILLS[number], number>>> = {
-    "Biomed": { "Biomedical Electronics & Instrumentation":0.18,"Signal Processing":0.14,"Imaging":0.14,"Statistics/Data Science":0.10,"Programming":0.06,"Chemistry/Analytical":0.10,"Systems Biology & Physiology":0.12,"Management/HASS":0.06,"Health Economics/Value":0.10 },
-    "Tech":   { "Programming":0.18,"Algorithms & Modelling":0.12,"Statistics/Data Science":0.10,"Signal Processing":0.10,"Physics":0.10,"Mathematics":0.10,"Management/HASS":0.08,"Imaging":0.06,"Mechanics/Biomechanics":0.06,"Biomedical Electronics & Instrumentation":0.10 },
-    "Consulting": { "Management/HASS":0.30,"Statistics/Data Science":0.10,"Health Economics/Value":0.16,"Programming":0.08,"Algorithms & Modelling":0.12,"Communication":0.24 as any }
+   const map: Record<Company['category'], Partial<Record<(typeof SKILLS)[number], number>>> = {
+    Biomed: {
+      'Biomedical Electronics & Instrumentation': 0.18,
+      'Signal Processing': 0.14,
+      Imaging: 0.14,
+      'Statistics/Data Science': 0.10,
+      Programming: 0.06,
+      'Chemistry/Analytical': 0.10,
+      'Systems Biology & Physiology': 0.12,
+      'Management/HASS': 0.06,
+      'Health Economics/Value': 0.10,
+    },
+    Tech: {
+      Programming: 0.18,
+      'Algorithms & Modelling': 0.12,
+      'Statistics/Data Science': 0.10,
+      'Signal Processing': 0.10,
+      Physics: 0.10,
+      Mathematics: 0.10,
+      'Management/HASS': 0.08,
+      Imaging: 0.06,
+      'Mechanics/Biomechanics': 0.06,
+      'Biomedical Electronics & Instrumentation': 0.10,
+    },
+    Consulting: {
+      // REMOVIDO "Communication" — redistribuído por skills existentes
+      'Management/HASS': 0.42,
+      'Health Economics/Value': 0.16,
+      'Statistics/Data Science': 0.10,
+      'Algorithms & Modelling': 0.18,
+      Programming: 0.14,
+    },
+  };
+
   };
   const base = map[c.category] || {};
   const vec = SKILLS.map(s=> (base as any)[s] || 0);
