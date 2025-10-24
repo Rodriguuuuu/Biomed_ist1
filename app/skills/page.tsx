@@ -3,7 +3,7 @@ import { COURSES } from '@/data/courses';
 import { useGrades } from '@/lib/state';
 import { courseSkillWeights, gradeStrength, SKILLS } from '@/lib/skills';
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
-import { RadarChart } from '@/components/radar';
+import Radar from '@/components/radar';
 
 type Thresholds = { strong:number; solid:number; base:number };
 
@@ -40,7 +40,7 @@ export default function SkillsPage(){
         <CardContent>
           <div className="grid md:grid-cols-2 gap-6">
             <div className="flex items-center justify-center">
-              <RadarChart labels={labels as string[]} values={values} />
+              <Radar labels={...} values={...} title="Top competências" />
             </div>
             <div>
               <ul className="space-y-2">
