@@ -4,21 +4,29 @@ import { COURSES } from '@/data/courses';
 import { gradeStrength } from '@/lib/skills';
 
 export type GradeMap = Record<string, number|undefined>;
-const KEY='grades.v1';
+const BASE='grades.v1';
 
-export function useGrades(){
+export function useGrades(profileId?: string | null){
   const [grades,setGrades] = useState<GradeMap>({});
+
   useEffect(()=>{
     try{
+      const KEY = profileId? `${BASE}.${profileId}`: BASE;
       const raw=localStorage.getItem(KEY);
       if(raw) setGrades(JSON.parse(raw));
     }catch{}
-  },[]);
+  },[profileId]);
+
   useEffect(()=>{
-    try{ localStorage.setItem(KEY, JSON.stringify(grades)); }catch{}
-  },[grades]);
+    try{
+      const KEY = profileId? `${BASE}.${profileId}`: BASE;
+      localStorage.setItem(KEY, JSON.stringify(grades));
+    }catch{}
+  },[grades, profileId]);
+
   const update = (name:string, value:number|undefined)=> setGrades(g=>({...g,[name]:value}));
   const clear = ()=> setGrades({});
+
   const stats = useMemo(()=>{
     let sum=0, ects=0;
     for (const c of COURSES){
@@ -34,6 +42,7 @@ export function useGrades(){
       progress: ects
     };
   },[grades]);
+
   const filled = useMemo(()=> COURSES.filter(c=>typeof grades[c.name]==='number').length, [grades]);
   return { grades, update, clear, stats, filled };
 }
