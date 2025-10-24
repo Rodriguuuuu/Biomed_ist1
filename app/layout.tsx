@@ -14,7 +14,7 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     <html lang="pt">
       <body>
         <a href="#conteudo" className="skip-link">Ir para conteúdo</a>
-        <header className="border-b">
+        <header className="border-b header-grad">
           <nav className="container flex items-center justify-between py-3" aria-label="Principal">
             <div className="font-semibold">IST BME</div>
             <ul className="flex gap-4" role="list">
@@ -36,4 +36,3 @@ export default function RootLayout({ children }: { children: ReactNode }) {
     </html>
   );
 }
-
