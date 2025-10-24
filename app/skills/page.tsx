@@ -1,57 +1,65 @@
 'use client';
-import { COURSES } from '@/data/courses';
-import { useGrades } from '@/lib/state';
-import { courseSkillWeights, gradeStrength, SKILLS } from '@/lib/skills';
+import { useMemo } from 'react';
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
 import Radar from '@/components/radar';
+import { SKILLS, courseSkillWeights, gradeStrength } from '@/lib/skills';
+import { COURSES } from '@/data/courses';
+import { useGrades } from '@/lib/state';
 
-type Thresholds = { strong:number; solid:number; base:number };
+export default function SkillsPage() {
+  const profileId = typeof window !== 'undefined' ? localStorage.getItem('currentProfileId.v1') : null;
+  const { grades } = useGrades(profileId);
 
-export default function SkillsPage(){
-  const { grades, update, clear, stats } = useGrades(typeof window!=='undefined' ? localStorage.getItem('currentProfileId.v1') : null);
-  const thresholds:Thresholds = { strong:16, solid:14, base:12 };
-
-  const { scores, norm } = (()=>{
+  // ——— construir vetor de competências a partir das notas ———
+  const { labels, values, norm } = useMemo(() => {
     const totals: Record<string, number> = {};
-    let ectsWithGrades = 0;
-    for (const c of COURSES){
+    let ects = 0;
+
+    for (const c of COURSES) {
       const g = grades[c.name];
       if (typeof g !== 'number') continue;
-      ectsWithGrades += c.ects;
+      ects += c.ects;
       const w = courseSkillWeights(c.name);
-      const s = gradeStrength(g);
-      for (const [k, val] of Object.entries(w)){
-        totals[k] = (totals[k]||0) + s * c.ects * (val as number);
+      const s = gradeStrength(g); // dá mais peso a notas altas (curva não-linear)
+      for (const [k, v] of Object.entries(w)) {
+        totals[k] = (totals[k] || 0) + s * c.ects * (v as number);
       }
     }
-    const norm = Object.fromEntries(SKILLS.map(k=>[k, (totals[k]||0)/(ectsWithGrades||1)]));
-    return { scores: totals, norm };
-  })();
 
-  const labels = Array.from(SKILLS);
-  const values = labels.map(l=>norm[l]||0);
+    const sumEcts = Math.max(1, ects);
+    const labels = SKILLS;
+    const raw = labels.map(k => totals[k] || 0);
+    const max = Math.max(1e-6, Math.max(...raw));
+    // normaliza 0..1
+    const values = raw.map(v => (max > 0 ? v / max : 0));
+    const norm: Record<string, number> = {};
+    labels.forEach((k, i) => (norm[k] = values[i]));
+    return { labels, values, norm };
+  }, [grades]);
 
-  const list = labels.map(l=>({k:l, v: (norm[l]||0)})).sort((a,b)=>b.v-a.v);
+  const list = labels
+    .map((l) => ({ k: l, v: norm[l] || 0 }))
+    .sort((a, b) => b.v - a.v);
 
   return (
     <div className="grid gap-6">
       <Card>
         <CardHeader><h2 className="text-lg font-semibold">Perfil de competências</h2></CardHeader>
         <CardContent>
-          <div className="grid md:grid-cols-2 gap-6">
-            <div className="flex items-center justify-center">
-              <Radar labels={...} values={...} title="Top competências" />
-            </div>
-            <div>
-              <ul className="space-y-2">
-                {list.map(({k,v})=>(
-                  <li key={k} className="flex items-center justify-between">
-                    <span>{k}</span>
-                    <span className="badge">{v.toFixed(3)}</span>
+          <div className="flex flex-col md:flex-row gap-6">
+            <Radar labels={labels} values={values} title="Radar" />
+            <div className="grow">
+              <ol className="space-y-1">
+                {list.map(({ k, v }) => (
+                  <li key={k} className="flex items-center justify-between border-b border-neutral-100 py-1">
+                    <span className="text-sm">{k}</span>
+                    <span className="text-sm font-medium">{(v * 100).toFixed(0)}%</span>
                   </li>
                 ))}
-              </ul>
-              <p className="mt-4 text-sm text-neutral-600">Força (≥16), Sólido (≥14), Base (≥12) são limiares configuráveis.</p>
+              </ol>
+              <p className="text-xs text-neutral-600 mt-3">
+                As percentagens são relativas à tua competência mais forte (normalização 0–100%).
+              </p>
             </div>
           </div>
         </CardContent>
