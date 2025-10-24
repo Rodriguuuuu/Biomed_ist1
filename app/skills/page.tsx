@@ -8,7 +8,7 @@ import { RadarChart } from '@/components/radar';
 type Thresholds = { strong:number; solid:number; base:number };
 
 export default function SkillsPage(){
-  const { grades } = useGrades();
+  const { grades, update, clear, stats } = useGrades(typeof window!=='undefined' ? localStorage.getItem('currentProfileId.v1') : null);
   const thresholds:Thresholds = { strong:16, solid:14, base:12 };
 
   const { scores, norm } = (()=>{
