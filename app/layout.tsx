@@ -1,15 +1,15 @@
 import "./globals.css";
 import type { Metadata } from "next";
-import { D } from "@/lib/i18n";
 import Link from "next/link";
 import { ReactNode } from "react";
+import LangToggle from "@/components/lang-toggle";
 
 export const metadata: Metadata = {
   title: "IST BME — GPA & Matches",
   description: "Local-first GPA, skills & employer matching for IST Biomedical Engineering.",
 };
 
-export default function RootLayout({children}:{children:ReactNode}){
+export default function RootLayout({ children }: { children: ReactNode }) {
   return (
     <html lang="pt">
       <body>
@@ -37,8 +37,3 @@ export default function RootLayout({children}:{children:ReactNode}){
   );
 }
 
-function LangToggle(){
-  // For simplicity we just switch the html lang attribute and store preference.
-  // In a fuller app you'd wrap strings; here copy keeps PT as default with English in sections.
-  return <a href="#" onClick={(e)=>{e.preventDefault(); const html=document.documentElement; html.lang = html.lang==='pt'?'en':'pt';}} className="btn" aria-label="Alternar idioma">PT/EN</a>
-}
