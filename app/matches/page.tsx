@@ -72,6 +72,8 @@ export default function MatchesPage() {
   const { grades, update, clear, stats } = useGrades(typeof window!=='undefined' ? localStorage.getItem('currentProfileId.v1') : null);
   const [filter, setFilter] = useState<'All' | 'Biomed' | 'Tech' | 'Consulting'>('All');
   const uvec = useMemo(() => userSkillVec(grades), [grades]);
+  const hasAny = useMemo(()=> uvec.some(v=>v>0), [uvec]);
+
 
   const ranked = useMemo(() => {
     const arr = (companies as Company[])
@@ -104,6 +106,10 @@ export default function MatchesPage() {
           </div>
         </CardHeader>
         <CardContent>
+          {!hasAny && <div className="p-3 text-sm text-neutral-700">
+  Preenche pelo menos uma nota em <strong>Notas &amp; GPA</strong> para ver variação no ranking.
+</div>}
+
           <ol className="space-y-2">
             {ranked.map((c, i) => (
               <li key={c.id} className="card p-3 flex items-center justify-between">
