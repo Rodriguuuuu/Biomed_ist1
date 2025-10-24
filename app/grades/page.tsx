@@ -3,7 +3,7 @@ import { COURSES } from '@/data/courses';
 import { Input } from '@/components/ui/input';
 import { useGrades } from '@/lib/state';
 import { Card, CardContent, CardHeader } from '@/components/ui/card';
-import { ProgressRing } from '@/components/progress-ring';
+import ProgressRing from '@/components/progress-ring';
 import { useMemo } from 'react';
 
 export default function GradesPage(){
