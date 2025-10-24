@@ -7,7 +7,7 @@ import { ProgressRing } from '@/components/progress-ring';
 import { useMemo } from 'react';
 
 export default function GradesPage(){
-  const { grades, update, clear, stats } = useGrades();
+  const { grades, update, clear, stats } = useGrades(typeof window!=='undefined' ? localStorage.getItem('currentProfileId.v1') : null);
   const totalECTS = useMemo(()=> COURSES.reduce((a,c)=>a+c.ects,0),[]);
   return (
     <div className="grid gap-6">
