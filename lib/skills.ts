@@ -32,4 +32,13 @@ export function courseSkillWeights(course: string): Partial<Record<Skill, number
   return Object.fromEntries(m.entries());
 }
 
-export function gradeStrength(grade:number){ return Math.max(0,(grade-10)/10); } // 10–20 -> 0..1
+// Mapeia nota (0–20) -> força [0..1] com ênfase nos topos.
+// 10 = 0, 16 ≈ 0.40, 18 ≈ 0.67, 19 ≈ 0.83, 20 = 1
+export function gradeStrength(grade: number) {
+  // normaliza 0..1 a partir de 10..20
+  const s = Math.max(0, Math.min(1, (grade - 10) / 10));
+  // curva de ênfase (quanto maior K, mais “puxa” o topo)
+  const K = 1.8;
+  return Math.pow(s, K);
+}
+
