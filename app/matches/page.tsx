@@ -69,7 +69,7 @@ function userSkillVec(grades: Record<string, number | undefined>) {
 }
 
 export default function MatchesPage() {
-  const { grades } = useGrades();
+  const { grades, update, clear, stats } = useGrades(typeof window!=='undefined' ? localStorage.getItem('currentProfileId.v1') : null);
   const [filter, setFilter] = useState<'All' | 'Biomed' | 'Tech' | 'Consulting'>('All');
   const uvec = useMemo(() => userSkillVec(grades), [grades]);
 
