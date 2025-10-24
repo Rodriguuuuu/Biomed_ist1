@@ -1,16 +1,27 @@
 'use client';
 import React from 'react';
 
-export function ProgressRing({value,max=20,size=120,stroke=10}:{value:number,max?:number,size?:number,stroke?:number}){
-  const radius=(size-stroke)/2;
-  const circ=2*Math.PI*radius;
-  const pct=Math.max(0,Math.min(1,value/max));
-  const dash=circ*pct;
+export default function ProgressRing({ value, size=120, stroke=10, label }:{
+  value: number;        // 0..100
+  size?: number;        // px
+  stroke?: number;      // px
+  label?: string;
+}) {
+  const r = (size - stroke) / 2;
+  const c = 2 * Math.PI * r;
+  const clamped = Math.max(0, Math.min(100, value));
+  const offset = c * (1 - clamped/100);
+
   return (
-    <svg width={size} height={size} role="img" aria-label={`GPA ${value.toFixed(2)} de ${max}`}>
-      <circle cx={size/2} cy={size/2} r={radius} strokeWidth={stroke} strokeOpacity={0.15} stroke="currentColor" fill="none"/>
-      <circle cx={size/2} cy={size/2} r={radius} strokeWidth={stroke} strokeDasharray={`${dash} ${circ-dash}`} strokeLinecap="round" stroke="currentColor" fill="none" transform={`rotate(-90 ${size/2} ${size/2})`}/>
-      <text x="50%" y="50%" dominantBaseline="middle" textAnchor="middle" fontSize="18" fontWeight={700}>{value.toFixed(2)}</text>
-    </svg>
+    <div className="inline-flex items-center justify-center" style={{width:size, height:size}}>
+      <svg width={size} height={size} role="img" aria-label={label ?? `Progresso ${clamped}%`}>
+        <circle cx={size/2} cy={size/2} r={r} stroke="#eee" strokeWidth={stroke} fill="none" />
+        <circle cx={size/2} cy={size/2} r={r} stroke="currentColor" strokeWidth={stroke}
+                strokeLinecap="round" fill="none"
+                strokeDasharray={c} strokeDashoffset={c - offset}
+                transform={`rotate(-90 ${size/2} ${size/2})`} />
+      </svg>
+      <div className="absolute text-sm font-semibold">{Math.round(clamped)}%</div>
+    </div>
   );
 }
